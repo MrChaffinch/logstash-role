@@ -29,11 +29,6 @@ Available variables are listed below, along with default values (see defaults/ma
   logstash_jvm_maximum: "256m"
   ```
 
-Dependencies
-------------
-
-None.
-
 Example Playbook
 ----------------
 
