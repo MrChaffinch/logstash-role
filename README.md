@@ -55,13 +55,3 @@ Below is more complete example with variables.
     - logstash-role
   tags: logstash
 ```
-
-License
--------
-
-MIT
-
-Author Information
-------------------
-
-The role was created by Sergey Shadurskiy in 2022/02 as a homework during a 10-month DevOps cource on Netology online educational platform.
